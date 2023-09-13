@@ -4,3 +4,6 @@
 [submodule "prjs/repo__test"]
 	path = prjs/repo__test
 	url = https://github.com/MuraDaco/repo__test.git
+[submodule "prjs/mpfw"]
+	path = prjs/mpfw
+	url = https://github.com/MuraDaco/mpfw.git
