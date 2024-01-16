@@ -1,0 +1,34 @@
+[submodule "gmmr__github"]
+	onstorage = github_muradaco
+	onmachine = ongithub
+	onrouter = 
+	repogroup = __MAIN_GROUP__
+	parent = __ROOT__
+	storage = smb_mypass2
+	storage = local
+	storage = github_muradaco
+[submodule "gmms"]
+	onstorage = github_muradaco
+	onmachine = ongithub
+	onrouter = 
+	repogroup = submain
+	parent = repo__main
+	storage = smb_mypass2
+	storage = local
+	storage = github_muradaco
+[submodule "prjs/repo__test"]
+	onstorage = github_muradaco
+	onmachine = ongithub
+	onrouter = 
+	repogroup = projects
+	parent = gmmr__github
+	storage = github_muradaco
+	storage = smb_mypass2
+[submodule "prjs/mpfw"]
+	onstorage = github_muradaco
+	onmachine = ongithub
+	onrouter = 
+	repogroup = projects
+	parent = gmmr__github
+	storage = github_muradaco
+	storage = smb_mypass2
