@@ -1,5 +1,5 @@
 La presente repository è il modulo root che contiene i seguenti submoduli
-- il modulo del progetto  [prj/mpfw/readme|MPFW / FW2]]  [mpfw_doc](prj/mpfw/readme) e 
+- il modulo del progetto  [prj/mpfw/readme|MPFW / FW2]]  [mpfw_doc](https://github.com/MuraDaco/mpfw/tree/main) e 
 - il modulo di utility [[gmms/readme|GMMS (Git Modules Management Scripts)]]  per una gestione veloce dei submodules di git di cui è costituito il progetto  [[prj/mpfw/readme|MPFW / FW2]].
 
 Breve descrizione dei moduli appena citati
