@@ -8,8 +8,8 @@
 	storage = local
 	storage = github_muradaco
 [submodule "gmms"]
-	onstorage = github_muradaco
-	onmachine = ongithub
+	onstorage = smb_mypass2
+	onmachine = onglinetsmbmac
 	onrouter = 
 	repogroup = submain
 	parent = repo__main
