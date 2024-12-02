@@ -1,6 +1,6 @@
 [submodule "gmms"]
 	path = gmms
-	url = file:///Volumes/mypass2/ObsiDataRemote/Year_2023/repo__main/gmms.git
+	url = https://github.com/MuraDaco/gmms.git
 [submodule "prjs/repo__test"]
 	path = prjs/repo__test
 	url = https://github.com/MuraDaco/repo__test.git
